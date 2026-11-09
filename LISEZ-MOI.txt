@@ -1,0 +1,16 @@
+L'ENVOLÉE · SITE V11
+
+À mettre en ligne (à la racine de l'hébergement), en gardant cette organisation :
+- index.html  → version ordinateur
+- mobile.html → version téléphone
+- assets/     → toutes les photos et le logo (obligatoire, à garder à côté des deux pages)
+
+Redirection automatique :
+- un écran de 820 px ou moins ouvre mobile.html
+- un écran plus large ouvre index.html
+Pour forcer une version : index.html?desktop ou mobile.html?mobile
+
+Avant la mise en ligne :
+- relier le formulaire de devis à un service d'envoi d'e-mails (Formspree, Netlify Forms…) ; pour l'instant il affiche seulement le message de confirmation
+- remplacer les avis provisoires par les vrais avis Google
+- ajouter le lien Google « Laisser un avis » et la page Mentions légales
